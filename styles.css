@@ -1,0 +1,35 @@
+.navbar {
+  background-color: grey;
+}
+.navbar-brand {
+  color: #fff;
+}
+.nav-item {
+  color: #fff;
+}
+.navbar-nav .nav-link {
+  color: white !important;
+}
+.col {
+background-color: lightgray;
+  border-radius: 5px;
+  margin:2px;
+  display: flex;
+}
+.opcion-box {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.carousel-fade .carousel-item {
+  transition: opacity 2s ease-in-out;
+}
+
+#myCarousel {
+  transition: opacity 2s ease-in-out;
+}
+
+
